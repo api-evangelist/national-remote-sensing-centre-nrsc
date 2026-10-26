@@ -64,5 +64,17 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-National Remote Sensing Centre (NRSC) is a company surfaced via the API Evangelist harvest backlog (source: vc-portfolio) and added to the network as a stub for full-pipeline profiling.
-- http://www.nrsc.gov.in
+The National Remote Sensing Centre (NRSC) of the Government of India provides satellite‑derived data products, thematic maps, and geospatial services. It offers data dissemination, archived data orders, Bhuvan and NICES services, aerial data management, and satellite ground‑station support to government agencies, researchers, and other users for applications such as agriculture, disaster management, forestry, land‑use, water resources, and urban planning.
+
+**Areas:** Remote Sensing · Geospatial Data · Satellite Services · Disaster Management · Agriculture · Land Use · Water Resources · Urban Planning
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](http://www.nrsc.gov.in)
+- [Privacy policy](https://www.nrsc.gov.in/nrscnew/privacypolicy.php)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/national-remote-sensing-centre-nrsc/](https://apis.io/providers/national-remote-sensing-centre-nrsc/).
